@@ -1,0 +1,25 @@
+
+
+/**{
+    border:solid;
+}*/
+
+.titulo{
+    background-color: darkviolet;
+    display:flex;
+    justify-content: space-between;
+}
+
+.jogos {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.roda_pe {
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2,h3{
+   text-align: center;
+}
